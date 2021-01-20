@@ -47,10 +47,6 @@ python run.py --weights=[weightfile] --something=[something]
 ```
 
 
-## Links
-- WebDemo : https://demo.ocr.clova.ai/
-- Repo of recognition : https://github.com/clovaai/deep-text-recognition-benchmark
-
 ## Support Us
 Incoming push requests are welcome! Don't be shy and push and you'll get reviews
 until it's ready to be merged!
