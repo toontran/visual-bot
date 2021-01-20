@@ -1,5 +1,5 @@
 ## visual-bot: Visual bot for visual automation
-GUI for easy visual automation through computer screen.
+GUI for easy visual automation through your PC screen.
 
 **Tung Tran, Nguyen Nguyen.**
 Bucknell University
