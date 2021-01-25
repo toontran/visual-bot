@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ### Supported systems
  
  *OS* | *Supported* | 
- | :--- | :--- | :--- | :--- | :--- |
+ | :--- | :--- | 
 Windows | Yes 
 Linux | No 
 macOS | No
