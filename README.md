@@ -24,7 +24,7 @@ something something
 pip install -r requirements.txt
 ```
 #### Pretrained Models
-[Text detector](https://drive.google.com/file/d/1Jk4eGD7crsqCCg9C9VjCLkMN3ze8kutZ) (need to cite)
+[Text detector](https://drive.google.com/file/d/1Jk4eGD7crsqCCg9C9VjCLkMN3ze8kutZ) ([CRAFT](https://github.com/clovaai/CRAFT-pytorch))
 
 [Character recognition]() (need to cite)
 
